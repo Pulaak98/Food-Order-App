@@ -1,12 +1,17 @@
+
+## 🛒 Food Order App
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React application simulates a real-world food ordering experience. It showcases advanced state and side-effect handling using:
 
-Currently, two official plugins are available:
+- ✅ `useState`, `useReducer`, and `useContext` for effective state management
+- 🔄 `useEffect` for lifecycle control and API calls
+- 🌐 HTTP GET and POST requests to fetch and submit data (e.g., orders)
+- 🛍️ Cart management with item quantity and total calculations
+- 🧼 Clean component structure and prop management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🚀 Live Demo  
+[View on Vercel]((https://food-order-app-two-phi.vercel.app/))
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📂 Source Code  
+[GitHub Repository]((https://github.com/Pulaak98/Food-Order-App))
