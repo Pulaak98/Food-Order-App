@@ -1,6 +1,7 @@
 .form {
   margin: 1rem 0;
-  max-height: 13rem;
+  /* max-height: 13rem; */
+  max-height: 25vh;
   overflow: auto;
 }
 
