@@ -11,7 +11,7 @@ This React application simulates a real-world food ordering experience. It showc
 - 🧼 Clean component structure and prop management
 
 ### 🚀 Live Demo  
-[View on Vercel]((https://food-order-app-two-phi.vercel.app/))
+[View on Vercel](https://food-order-app-two-phi.vercel.app/)
 
 ### 📂 Source Code  
-[GitHub Repository]((https://github.com/Pulaak98/Food-Order-App))
+[GitHub Repository](https://github.com/Pulaak98/Food-Order-App)
